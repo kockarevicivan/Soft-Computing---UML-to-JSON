@@ -57,7 +57,7 @@ namespace SoftComputing.UTJ.BLL.Services
 
                 g.DrawPolygon(new Pen(Color.Red, 5.0f), Points.ToArray());
             }
-
+            
             return fakeImage;
         }
 
