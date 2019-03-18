@@ -1,4 +1,4 @@
-# Soft-Computing---UML-to-JSON
+# uml-to-json
 A C# tool that recognizes entities from draw.io UML diagram image, and creates a JSON description of each entity with all its fields.
 
 Tool is written in Windows Forms. All logic is extracted and can be used as a separate dll.
