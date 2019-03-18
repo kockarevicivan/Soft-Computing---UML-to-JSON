@@ -3,6 +3,8 @@ A C# tool that recognizes entities from draw.io UML diagram image, and creates a
 
 Tool is written in Windows Forms. All logic is extracted and can be used as a separate dll.
 
+You can find more details in the PDF that is inside the Poster section.
+
 # Project setup
 Tool can be run:
 1. Through Visual Studio by selecting SoftComputing.UTJ.Presentation as a startup project.
